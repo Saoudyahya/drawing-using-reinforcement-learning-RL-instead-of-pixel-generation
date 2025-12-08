@@ -182,7 +182,7 @@ graph TB
     end
     
     subgraph Output["📤 OUTPUT"]
-        H[Action Logits<br/>π a|s]
+        H[Action Logits<br/>π theta a,s]
         I[State Value<br/>V s]
     end
     
