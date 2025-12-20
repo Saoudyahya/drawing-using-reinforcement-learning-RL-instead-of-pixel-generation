@@ -25,7 +25,7 @@
 
 </div>
 
-![System Overview](rl_painter_architecture.svg)
+
 
 ---
 
