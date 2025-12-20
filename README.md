@@ -11,6 +11,18 @@
 
 [Overview](#overview) • [Problem Statement](#-problem-statement) • [Architecture](#system-architecture) • [Usage](#-usage) • [Results](#results)
 
+---
+
+### 🚀 **Try the Interactive Demo!**
+
+[![Streamlit App](https://img.shields.io/badge/🎨_Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Saoudyahya/AI-Drawing-Recreator-rl-based)
+
+**Experience the trained models in action!** Check out our [interactive Streamlit application](https://github.com/Saoudyahya/AI-Drawing-Recreator-rl-based) where you can:
+- ✨ Watch the AI draw shapes in real-time
+- 🎯 Select from 6 different trained shapes
+- 📊 Visualize the drawing process step-by-step
+- 🔄 Compare different models and strategies
+
 </div>
 
 ![System Overview](rl_painter_architecture.svg)
